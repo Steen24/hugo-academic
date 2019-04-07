@@ -5,3 +5,4 @@ resources/
 
 # Jupyter
 .ipynb_checkpoints/
+.Rproj.user
